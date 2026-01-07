@@ -3,4 +3,7 @@ git status check a status on github.com
 git add ex git add song.txt adding file to branch?
 git commit -m "exmple" adding a coment of last work to file here song.txt
 git log check changes
+git pull to download from  github
+git push to send to github
+
 
