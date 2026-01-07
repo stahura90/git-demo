@@ -1,0 +1,6 @@
+cd go to flder ex /c/users/
+git status check a status on github.com
+git add ex git add song.txt adding file to branch?
+git commit -m "exmple" adding a coment of last work to file here song.txt
+git log check changes
+
