@@ -6,4 +6,5 @@ git log check changes
 git pull to download from  github
 git push to send to github
 
+git gui& Graphics user interface
 
